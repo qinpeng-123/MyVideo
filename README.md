@@ -39,7 +39,11 @@
 
 [&emsp;&emsp;6. 根据endpoint查找ivrNode](#6-根据endpoint查找ivrNode)
 
-[&emsp;&emsp;6. 根据endpoint查找ivrNode](#6-根据endpoint查找ivrNode)
+[语音导航节点type类型与property字段详细](#语音导航节点type类型与property字段详细)
+
+[&emsp;&emsp;播放节点(8)](#1-播放节点(8))
+
+[&emsp;&emsp;判断节点（11）](#2-判断节点（11）)
 
 
 
